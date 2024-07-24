@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a Password Strength Analyzer designed to evaluate the strength of passwords, detect common vulnerabilities, and provide recommendations for improving password security. The tool helps users understand the importance of strong passwords and how to protect their accounts from potential threats.
+Note: Download the required password list from the relevent sources
 
 ## Objectives
 1. **Analyze Password Strength:**
